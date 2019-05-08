@@ -1,0 +1,33 @@
+
+.my-stuff{
+	width:700px;
+	margin:30% auto;
+	}
+
+.panel{
+	width:700px;
+	height:100px;
+	padding:60px;
+	margin:30px 25px;
+
+	background-color: grey;
+	color: #fff;
+	border:10px solid black; 
+}
+
+.anita{
+	background-color: yellow;
+	border:30px solid purple;
+	width:650px;
+	height:100px;
+	padding:100px;
+	margin:40px 20px;
+}
+
+.wendy{
+	background-color: pink;
+	border:30px;
+	width:700px;
+	height:150px;
+	padding:60px;
+}
